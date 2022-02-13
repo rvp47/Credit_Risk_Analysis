@@ -9,6 +9,7 @@ Deliverable 2: Use the SMOTEENN Algorithm to Predict Credit Risk
 
 Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk
 
+
 ## Results
 ### Deliverable 1: Use Resampling Models to Predict Credit Risk
 #### Naive Random Oversampling
@@ -65,3 +66,4 @@ Deliverable 3: Use Ensemble Classifiers to Predict Credit Risk
 
 
 ## Summary
+Predicting credit risk is a combination of precision and recall. Precision measures reliability, and recall measures sensitivity. Out of the six machine learning algorithms and models generated in this analysis, the Easy Ensemble Classifier model performed the highest on balanced accuracy (93.16%), high risk precision (9%), and high risk recall (92%). Thus, it is recommended that the banks use this model be used to predict credit risk.
